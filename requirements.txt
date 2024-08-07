@@ -1,0 +1,5 @@
+ollama
+langchain
+langchain-text-splitters
+langchain-community
+streamlit
