@@ -1,6 +1,9 @@
 # Chat with Documents Powered by Ollama
 
-
+## Techstack
+1. Ollama
+2. LangChain
+3. Streamlit
 
 ## References
 1. [Sam Witteveen's Tutorial](https://github.com/samwit/langchain-tutorials/tree/main/2024/gemma2_local_rag)
