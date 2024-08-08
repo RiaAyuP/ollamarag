@@ -1,10 +1,8 @@
 # Offline File Q&A Powered by Ollama and Streamlit
 
-Ask question to your document completely offline and free (because we're using open-source models).
-
-(Actually, at this point we only can ask **one question** to **one file** through the app, more feature coming soon.)
-
-For more accurate answer, please consider modifying the prompt to your specific use by using examples, or other prompt engineering techniques.
+- Ask question to your document completely offline and free (because we're using open-source models).
+- (Actually, at this point we only can ask **one question** to **one file** through the app, more feature coming soon.)
+- For more accurate answer, please consider modifying the prompt to your specific use by using examples, or other prompt engineering techniques.
 
 ![Screenshot](home-screenshot.png)
 
