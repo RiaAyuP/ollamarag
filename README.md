@@ -1,15 +1,12 @@
 # Offline File Q&A Powered by Ollama and Streamlit
 
 Ask question to your document completely offline and free (because we're using open-source models).
+
 (Actually, at this point we only can ask **one question** to **one file** through the app, more feature coming soon.)
+
 For more accurate answer, please consider modifying the prompt to your specific use by using examples, or other prompt engineering techniques.
 
 ![Screenshot](home-screenshot.png)
-
-### Supported Documents
-- Text File (TXT)
-- Markdown (MD)
-- PDF
 
 ## Note
 This is the continuation from my [last learning](https://github.com/RiaAyuP/streamlitchat1) to make a Streamlit Chat app. I wanted to make the File Q&A as well, but I already set the Python environment there to be 3.10. Unfortunately the File Q&A feature from Streamlit requires Python 3.11. Therefore, I set a separate repo for this function only. For those who wants to combine this with the Chat functionality, be sure to use **Python 3.11** or above.
